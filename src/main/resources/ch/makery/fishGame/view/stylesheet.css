@@ -1,0 +1,81 @@
+.heading1 {
+    -fx-font-size: 50pt;
+    -fx-font-family: "Britannic Bold";
+    -fx-text-fill: white;
+    -fx-opacity: 1;
+    -fx-alignment: center;
+
+}
+
+.heading2{
+    -fx-font-size: 30pt;
+    -fx-font-family: "Britannic Bold";
+    -fx-text-fill: #074173;
+    -fx-opacity: 1;
+    -fx-alignment: center;
+}
+
+.normalText{
+    -fx-font-size: 19pt;
+    -fx-font-family: "Britannic Bold";
+    -fx-opacity: 1;
+    -fx-alignment: center-left;
+    -fx-fill: white;
+}
+
+.welcomePageButton {
+    -fx-background-color: #074173;
+    -fx-text-fill: white;
+    -fx-background-radius: 10px;
+    -fx-padding: 5px 10px;
+    -fx-font-family: "Britannic Bold";
+    -fx-font-size: 20pt;
+}
+
+.welcomePageButton:hover{
+    -fx-background-color: white;
+    -fx-border-color: #074173;
+    -fx-border-width: 3px;
+    -fx-border-radius: 8px;
+    -fx-text-fill: #074173;
+}
+
+.normalButton{
+    -fx-background-color: #074173;
+    -fx-text-fill: white;
+    -fx-font-family: "Britannic Bold";
+    -fx-background-radius: 10px;
+    -fx-padding: 5px 10px;
+    -fx-font-size: 12pt;
+}
+
+.normalButton:hover{
+    -fx-background-color: white;
+    -fx-border-color: #074173;
+    -fx-border-width: 3px;
+    -fx-border-radius: 8px;
+    -fx-text-fill: #074173;
+}
+
+.timer{
+    -fx-font-size: 30pt;
+    -fx-font-family: "Britannic Bold";
+    -fx-text-fill: white;
+    -fx-opacity: 1;
+}
+
+.leaderboardLabel{
+    -fx-font-size: 19pt;
+    -fx-font-family: "Britannic Bold";
+    -fx-opacity: 1;
+    -fx-alignment: center-left;
+    -fx-fill: white;
+}
+
+#leaderboardContent{
+    -fx-font-size: 25px;
+    -fx-font-family: "Britannic Bold";
+    -fx-text-fill: black;
+    -fx-alignment: center;
+
+}
